@@ -13,3 +13,4 @@ database/background
 database/flights
 database/googleDistanceMatrix
 database/restaurants
+.env
